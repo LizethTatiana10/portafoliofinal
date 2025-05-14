@@ -1,0 +1,43 @@
+
+
+h1{
+    text-align: center;
+}
+
+.barra {
+  background-color: #54085e;
+  color: rgb(253, 253, 253);
+  text-align: center;
+  font-weight: bold;
+  width: 50%;
+}
+
+.card {
+  transition: transform 0.3s;
+  margin-bottom: 20px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-title {
+  color: #ec25c1;
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+h2 {
+  text-transform: capitalize;
+  color: #ec47df;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.progress {
+  height: 25px;
+  margin-top: 15px;
+}
